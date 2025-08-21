@@ -1,0 +1,15 @@
+# .net
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# macos
+.DS_Store
+
+# jetbrains
+.idea
+
+# logs
+**/logs
