@@ -6,6 +6,7 @@ The project contains two implementations:
 - Domain-Driven Design (DDD) reimplementation for a clean, maintainable, and extensible architecture.
 
 ## Project Structure
+```
 ├── docs
 ├── src
 │   ├── Application              # Application layer: use cases, services
@@ -19,6 +20,7 @@ The project contains two implementations:
 ├── qblix.sln                   # Solution file
 ├── README.md                   # This file :)
 └── Directory.Packages.props    # Centralized package version management
+```
 
 ## Implementation Overview
 
